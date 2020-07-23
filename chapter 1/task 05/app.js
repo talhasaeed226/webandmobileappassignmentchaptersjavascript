@@ -1,0 +1,1 @@
+console.log(alert("Hi! I can run JS through Web browser console"))
